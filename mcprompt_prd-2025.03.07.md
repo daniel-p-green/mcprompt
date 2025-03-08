@@ -1,4 +1,4 @@
-*Confidence Score: 95%**  
+**Confidence Score: 95%**  
 We have high clarity on technical feasibility, market need, and a clear integration strategy with Apple's ecosystem. The remaining 5% uncertainty revolves around adoption speed in B2B markets and the complexities of cross-platform expansion. We can mitigate this risk by delivering a seamless user experience on Apple devices first and gradually expanding based on feedback.
 
 ---
